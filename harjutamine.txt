@@ -1,1 +1,2 @@
 GitHub on veebipõhine platvorm, mis võimaldab arendajatel ja meeskondadel hallata, jagada ja koostööd teha tarkvara arendamise projektides. GitHub põhineb versioonihaldusüsteemil Git, mis on loodud Linus Torvaldsi poolt (Linuxi tuuma looja), ja pakub mitmeid tööriistu, et jälgida koodimuudatusi, hallata probleeme ja teha koostööd.
+Minu jaoks GitHub on uus keskkonda, millest ma uurin oma õpeasutuses ja kasutan kas koolist või kodust, kuna see on veebirakendus.
